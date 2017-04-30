@@ -1,0 +1,24 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "Twitter / Instagram clone built with a graphql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boughtmanatee5/graphql-playground.git"
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "express"
+  ],
+  "author": "Sean Costello",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Boughtmanatee5/graphql-playground/issues"
+  },
+  "homepage": "https://github.com/Boughtmanatee5/graphql-playground#readme"
+}
